@@ -361,3 +361,7 @@ ou
 
 ### TypeScript
 
+POur lancer le projet avec typescript c'est 
+-> npm run start2 ou yarn start2
+
+À noter que je n'ai pas utilisé du typescript à 100% dans le projet 
